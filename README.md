@@ -2,7 +2,11 @@
 
 We get it, you're broke. But you wanna look fresh. Give us your number and we will text you cheap deals. 
 
-We used the Twilio SMS API, Reddit Wrapper, Flask and Cloud functions using Google Cloud.
+### Technology Stack:
+- Twilio SMS API - Used to send text messages
+- Reddit Wrapper - Used to fetch from Reddit
+- Flask - Set up back end
+- Cloud functions using Google Cloud - Analytics
 
 
 # Setup
